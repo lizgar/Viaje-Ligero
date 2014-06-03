@@ -66,6 +66,12 @@ h3
 	
 }
 
+.der 
+{
+	padding: 1.6em 50% 3.2em 1.6em;
+	background-position: 100% 50%;
+}
+
 .imagen1
 {
   background-color: #e8697b;
@@ -74,6 +80,8 @@ h3
 
 .imagen2
 {
+	background-color:#39F;
+	background-image:url(../images/miniblack.png);
 	
 }
 .pantalla
